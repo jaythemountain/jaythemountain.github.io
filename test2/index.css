@@ -7,8 +7,8 @@ body {
 /* title */
 .title {
 	margin: auto;
-	width: 50%;
-	padding: 10px;
+	width: auto;
+	padding: auto;
 	text-align: center;
 }
 /* ballons */
@@ -19,8 +19,6 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 	overflow: auto;
-	justify-content: stretch;
-	align-items: center;
 }
 
 .balloon {
