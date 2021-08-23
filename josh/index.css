@@ -1,6 +1,6 @@
 body {
     margin: 0;
-
+}
 
 @-webkit-keyframes AnimationName {
     0%{background-position:0% 99%}
