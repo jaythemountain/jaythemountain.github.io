@@ -68,11 +68,10 @@ ul {
 .text {
   background: rgba(0, 151, 19, 0);
   position: absolute;
-  right: -100px;
 }
 
 .text ul {
-  text-align: center;
+  text-align: left;
   list-style: none;
   font-family: 'Contrail One', cursive;
   font-size: 15px;
