@@ -79,9 +79,10 @@ ul {
 
 .h1{
   font-size: 10px;
-  font-family: 'Bangers', cursive;
+  font-family: 'Courgette', cursive;
+  /* font-family: 'Bangers', cursive;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: bold; */
 }
 
 .balloon {
