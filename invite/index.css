@@ -74,6 +74,11 @@ ul {
 .text ul {
   text-align: center;
   list-style: none;
+  padding-right: 5px
+}
+
+.h1{
+  font-size: small;
 }
 
 .balloon {
