@@ -57,7 +57,7 @@ ul {
 
 /* Ballons */
 #balloon-container {
-  height: 120vh;
+  height: 105vh;
   padding: 1em;
   box-sizing: border-box;
   display: flex;
