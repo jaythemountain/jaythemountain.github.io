@@ -68,7 +68,7 @@ ul {
 .text {
   background: rgba(0, 151, 19, 0);
   position: absolute;
-  right: -150px;
+  right: -175px;
 }
 
 .text ul {
@@ -81,6 +81,7 @@ ul {
 .h1{
   font-size: 10px;
   font-family: 'Cinzel Decorative', cursive;
+  font-size: 15px;
 }
 
 .balloon {
