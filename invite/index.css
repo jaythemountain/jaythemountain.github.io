@@ -85,6 +85,10 @@ ul {
   font-size: 15px;
   font-weight: bold; */
 }
+a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
 
 .balloon {
   height: 125px;
