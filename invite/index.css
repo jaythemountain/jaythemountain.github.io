@@ -68,6 +68,7 @@ ul {
 .text {
   background: rgba(0, 151, 19, 0);
   position: absolute;
+  padding-right: 5px;
 }
 
 .text ul {
