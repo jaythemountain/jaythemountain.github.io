@@ -1,0 +1,27 @@
+body,
+html {
+	height: 100%;
+}
+section:nth-child(even) {
+	background-color: #ddd;
+}
+.text-sm-center {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+}
+section {
+	width: 100%;
+	min-height: 75%;
+	padding: 75px 75px 75px;
+}
+.para {
+	font-family: 'PT Serif', serif;
+	font-weight: 700;
+	text-align: justify;
+}
+
+ul {
+	list-style-type: none;
+}
