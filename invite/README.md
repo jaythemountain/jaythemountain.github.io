@@ -1,1 +1,1 @@
-# jaythemountain.github.io/coronavirus
+# jaythemountain.github.io/invite
