@@ -24,19 +24,24 @@ body {
     
 }    
 #greet {
-    font-family: 'Lobster Two', cursive;
+  font-family: 'Rampart One', cursive;
+  font-size: auto;
+
 }
 
 #welcome {
-    font-family: 'Berkshire Swash', cursive;
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 3.5rem;
 }
 
-.blurb h1 {
+
+/* .blurb h1 {
     color: deeppink;
     font-weight: 100;
     font-size: auto;
+    
 
-}
+} */
 .blurb li{
     list-style-type: none;
     text-align: left;
@@ -45,6 +50,8 @@ body {
     font-weight: 50px;
     word-spacing: 0px;
     line-height: 50px;
+    font-family: 'Gochi Hand', cursive;
+
 }
 
 .blurb a{
@@ -57,7 +64,9 @@ body {
     line-height: auto;
     list-style: none;
 } */
-
+a:visited{
+  color: #0582FF;
+}
 
 /* Ballons */
 #balloon-container {
