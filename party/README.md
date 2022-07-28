@@ -1,1 +1,2 @@
-# jaythemountain.github.io/partytest
+# jaythemountain.github.io/party
+
