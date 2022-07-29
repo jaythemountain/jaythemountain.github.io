@@ -1,5 +1,5 @@
 // name
-var nickname = prompt("Can i Please know your name", "Guest");
+var nickname = prompt("May I please know your name", "Guest");
 if (nickname != null) {
     document.getElementById("welcome").innerText = nickname;
 } 
@@ -7,9 +7,9 @@ if (nickname != null) {
 // greet
 const time = new Date().getHours();
 let greeting;
-if (time < 10) {
+if (time < 12) {
   greeting = "Morning & Hi,";
-} else if (time < 20) {
+} else if (time < 17) {
   greeting = "Afternoon & Hi,";
 } else {
   greeting = "Evening & Hi,";
