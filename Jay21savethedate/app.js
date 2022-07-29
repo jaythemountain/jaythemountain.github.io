@@ -8,11 +8,11 @@ if (nickname != null) {
 const time = new Date().getHours();
 let greeting;
 if (time < 12) {
-  greeting = "Morning & Hi,";
+  greeting = "Hi,";
 } else if (time < 17) {
-  greeting = "Afternoon & Hi,";
+  greeting = "Hi,";
 } else {
-  greeting = "Evening & Hi,";
+  greeting = "Hi,";
 }
 document.getElementById("greet").innerHTML = greeting;
 
