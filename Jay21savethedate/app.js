@@ -1,5 +1,5 @@
 // name
-var nickname = prompt("May I please know your name", "Guest");
+var nickname = prompt("May I please know your name");
 if (nickname != null) {
     document.getElementById("welcome").innerText = nickname;
 } 
