@@ -1,19 +1,17 @@
 
 var nickname = prompt("Can i Please know your name", "Guest");
 if (nickname != null) {
-    document.getElementById("welcome").innerText = "Hi " 
-    + nickname + 
-    "!, You are invited to Jay's 21st";
+    document.getElementById("welcome").innerText = nickname;
 } 
 
 
 const time = new Date().getHours();
 let greeting;
 if (time < 10) {
-  greeting = "Good morning,";
+  greeting = "Morning & Hi,";
 } else if (time < 20) {
-  greeting = "Good afternoon,";
+  greeting = "Afternoon & Hi,";
 } else {
-  greeting = "Good evening,";
+  greeting = "Evening & Hi,";
 }
 document.getElementById("greet").innerHTML = greeting;
