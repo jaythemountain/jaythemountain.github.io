@@ -1,2 +1,0 @@
-# jaythemountain.github.io/partyupdate
-
